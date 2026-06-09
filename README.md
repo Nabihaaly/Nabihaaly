@@ -60,9 +60,6 @@
 ### most used languages
 <img src="https://github-toplang-stats.vercel.app/api/stats?username=nabihaaly&theme=dawn&hide=HTML%2C%20CSS%2C%20Markdown" />
 
-### Stats
-> still building enough to make this section interesting
-
 # 
 
 <div align="center">
