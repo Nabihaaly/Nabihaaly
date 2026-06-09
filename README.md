@@ -3,8 +3,6 @@
 *undergrad software engineer who spends most of the time turning ideas into backend logic*  
 *and fixing things that were "working five minutes ago"*
 
-
-
 ### Me core :)
 
 - Gaslit myself into believing I like coding (I actually love it)  
@@ -42,8 +40,8 @@
 
 <br>
 
-### 🔗 connect with me
-<div align="left">
+<!-- <div align="left">
+### 🔗 connect with me 
   &emsp;
 <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -57,13 +55,13 @@
 <a href="mailto:YOUR_EMAIL" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</div>
+</div> -->
+
+### most used languages
+<img src="https://github-toplang-stats.vercel.app/api/stats?username=nabihaaly&theme=dawn&hide=HTML%2C%20CSS%2C%20Markdown" />
 
 ### Stats
-<div align="left">
-  &emsp;
 > still building enough to make this section interesting
-</div>
 
 # 
 
