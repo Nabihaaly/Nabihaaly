@@ -3,7 +3,7 @@
 *undergrad software engineer who spends most of the time turning ideas into backend logic*  
 *and fixing things that were "working five minutes ago"*
 
-<br>
+
 
 ### Me core :)
 
@@ -39,13 +39,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="35" alt="sql server" />
 </div>
-
-<br>
-
-### mindset
-
-- not trying to be perfect, just trying to be consistent  
-- building things, breaking things, fixing things —> repeat
 
 <br>
 
